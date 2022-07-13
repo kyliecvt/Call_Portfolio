@@ -12,5 +12,4 @@ I hope this portfolio gives you an idea not only of my writing abilities but my 
 4. An excerpt of a user guide on how to watch videos on YouTube that I made for the nonprofit organization, Code for Nepal. The manual was printed and distributed to people in Nepal to promote digital literacy.
 
 Enjoy,
-
 Kylie
