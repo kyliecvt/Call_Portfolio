@@ -9,7 +9,7 @@ I hope this portfolio gives you an idea not only of my writing abilities but my 
 1. An infoposter on phone addiction that I made with Adobe InDesign, Illustrator, and Photoshop.
 2. A quick start guide on how to create a Gmail account.
 3. A social action poster on environmentalism that I made with Adobe InDesign, Illustrator, and Photoshop.
-4. A user guide on how to watch videos on YouTube that I made for the nonprofit organization, Code for Nepal. The manual was printed and distributed to people in Nepal to promote digital literacy.
+4. An excerpt of a user guide on how to watch videos on YouTube that I made for the nonprofit organization, Code for Nepal. The manual was printed and distributed to people in Nepal to promote digital literacy.
 
 Enjoy,
 
