@@ -2,13 +2,13 @@
 
 Hi, I'm Kylie!
 
-I am a technical writer from Richmond, Virginia, looking for the next part of my story. Although I recently graduated from Virginia Tech with a degree in professional and technical writing (PTW), I still consider myself a student. I am eager to learn not only about technical writing but also about instructional design and user experience design. 
+I am a technical writer from Richmond, Virginia, looking for the next part of my story. Although I recently graduated from Virginia Tech with a degree in professional and technical writing (PTW), I still consider myself a student. I am eager to learn about technical writing, instructional design, and user experience design. 
 
-I hope this portfolio gives you an idea of my writing abilities and my passion for technical writing. The following pieces are included in my portfolio:
+I hope this portfolio gives you an idea of my writing abilities and my passion for technical writing. I have included the following samples in my portfolio:
 
-1. An infoposter on phone addiction that I made with Adobe InDesign, Illustrator, and Photoshop.
-2. A social action poster on environmentalism that I made with Adobe InDesign, Illustrator, and Photoshop.
-3. An excerpt of a user guide on how to watch videos on YouTube that I made for the nonprofit organization, Code for Nepal. The manual was printed and distributed to people in Nepal to promote digital literacy.
+1. An info poster on phone addiction that I created using Adobe InDesign, Illustrator, and Photoshop.
+2. A social action poster I created using Adobe InDesign, Illustrator, and Photoshop.
+3. A user guide that I created for the nonprofit organization, Code for Nepal. Code for Nepal printed the guide and distributed it to students in Nepal to promote digital literacy.
 
 Enjoy,
 
